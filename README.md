@@ -47,7 +47,8 @@ Here are some ideas to get you started:
 <img align="right" width="88" src="./images/cxyduck.gif" />
 
 <p>&emsp;&emsp;😄 Hi, I'm Forge.</p>
-<p>&emsp;&emsp;🔭 I’m currently working on P4, SDN, DPDK, Docker </p>
+<p>&emsp;&emsp;🔭 I’m currently working on P4, SDN, DPDK, Nginx, NEt-FPGA-SUME </p>
+<p>&emsp;&emsp;🔭 Study Map: 西安电子科技大学 -> TU Dresden -> TU Dresden </p>
 <p>&emsp;&emsp;<strong>🌱 We're making the world a better place. </strong></p>
 
 ## 💻 Tech Stack
